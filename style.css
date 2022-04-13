@@ -1,0 +1,60 @@
+#main{
+    align-items: center;
+
+}
+.head{
+    margin-left: 4%;
+    color:brown;
+    margin-top: 5%;
+    text-align: center;
+  }
+  body{
+      background-image: url(bacgrnd4.png);
+      background-repeat: none;
+      background-attachment: fixed;
+  }
+      
+ #none{
+   height:100px;
+   width:auto;
+
+ }
+ #none2{
+  height:60px;
+  width:auto;
+
+}
+ .bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+#img{
+  height: 58.4px;
+  width: 58.4;
+}
+#card{
+  background-color: rgb(1, 3, 15);
+}
+#p{
+  text-align: justify;
+}
+#card:hover{
+  background-color:#212529;
+  cursor: pointer;
+  border: 2px;
+
+  }
+  #img_c:hover{
+ transition: 0.9S;
+ transform: translatey(-30px);
+
+  }
