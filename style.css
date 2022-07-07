@@ -90,7 +90,7 @@ body {
   width:  350px;
   height:  350px;
   border-radius: 50%;
-  background:  url(IMAGES/avatar.png);
+  background:  url(images/avatar.png);
   background-size:  cover;
   cursor:  pointer;
   border:  12px;
